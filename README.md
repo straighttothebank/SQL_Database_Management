@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="image-1.jpg"">
         <img src="image-1.jpg" width="100px;" alt=" "/><br>
         <sub>
           <b>Visualizing data</b>
@@ -40,7 +40,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="image-2.jpg">
         <img src="image-2.jpg" width="100px;" alt=" "/><br>
         <sub>
           <b>Data Analysis</b>
