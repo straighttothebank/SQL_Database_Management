@@ -17,9 +17,9 @@
 
 ### :rocket: Objectives
 
-> Develop a tool that builds a database from an Excel spreadsheet.
-> Build ways to optimize the modification, management and analysis of data, automating operations.
-> Automate table formatting and data entry.
+> - Develop a tool that builds a database from an Excel spreadsheet.
+> - Build ways to optimize the modification, management and analysis of data, automating operations.
+> - Automate table formatting and data entry.
 
 ## :chart_with_upwards_trend: Results
 
