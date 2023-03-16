@@ -23,9 +23,9 @@
 
 ## :chart_with_upwards_trend: Results
 
-> Framework with quick responses and simplified data entry.
-> Secure database with good performance, even with the entry of more than 11 thousand lines of data.
-> Fast data processing for insertion of non-standard spreadsheets during the data entry process.
+> - Framework with quick responses and simplified data entry.
+> - Secure database with good performance, even with the entry of more than 11 thousand lines of data.
+> - Fast data processing for insertion of non-standard spreadsheets during the data entry process.
 
 ## :bar_chart: Images
 
