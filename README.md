@@ -6,7 +6,7 @@
 ![GitHub language count](https://img.shields.io/badge/LANGUAGES-2-green)
 ![Bitbucket open issues](https://img.shields.io/badge/OPEN%20ISSUES-NO%20ISSUES-green)
 
-<img src="project-image.png" alt=" ">
+<img src="project-image.jpg" alt=" ">
 
 
 ### :speech_balloon: Intro
